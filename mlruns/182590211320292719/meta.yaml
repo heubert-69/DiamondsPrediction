@@ -1,0 +1,6 @@
+artifact_location: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/182590211320292719
+creation_time: 1778025851022
+experiment_id: '182590211320292719'
+last_update_time: 1778025851022
+lifecycle_stage: active
+name: diamond_models_ensemble

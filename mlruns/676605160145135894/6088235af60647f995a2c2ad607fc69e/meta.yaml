@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/6088235af60647f995a2c2ad607fc69e/artifacts
+end_time: 1778026818943
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: 6088235af60647f995a2c2ad607fc69e
+run_name: SVR
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778026504344
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/735b8d5365ad4e5f8217f8695de8d76b/artifacts
+end_time: 1778000388910
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: 735b8d5365ad4e5f8217f8695de8d76b
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778000354578
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/5c3e6286f6df44ef8d3a262666afc0e2/artifacts
+end_time: 1778001263566
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: 5c3e6286f6df44ef8d3a262666afc0e2
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778001048841
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/6de36353e8bb44a395a1eca574782f83/artifacts
+end_time: 1778036800636
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: 6de36353e8bb44a395a1eca574782f83
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778036748222
+status: 3
+tags: []
+user_id: voltsy

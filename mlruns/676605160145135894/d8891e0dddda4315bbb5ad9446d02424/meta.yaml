@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/d8891e0dddda4315bbb5ad9446d02424/artifacts
+end_time: 1778026504339
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: d8891e0dddda4315bbb5ad9446d02424
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778026503348
+status: 3
+tags: []
+user_id: voltsy

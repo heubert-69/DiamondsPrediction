@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/676605160145135894/0ccdd9af5ec441dfab8fa052ffb0f832/artifacts
+end_time: 1778030831719
+entry_point_name: ''
+experiment_id: '676605160145135894'
+lifecycle_stage: active
+run_id: 0ccdd9af5ec441dfab8fa052ffb0f832
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778030728145
+status: 3
+tags: []
+user_id: voltsy

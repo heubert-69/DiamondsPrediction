@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/DiamondPredictionChallenge/mlruns/182590211320292719/9a9d329a09d34f018c4f67cd719c5945/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '182590211320292719'
+lifecycle_stage: active
+run_id: 9a9d329a09d34f018c4f67cd719c5945
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778025851115
+status: 1
+tags: []
+user_id: voltsy
